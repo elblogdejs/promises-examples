@@ -1,0 +1,20 @@
+{
+  "name": "examples-promises",
+  "version": "1.0.0",
+  "description": "examples about promises",
+  "main": "callback-sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "node",
+    "io"
+  ],
+  "author": "Jose Lopez",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
+}
